@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ek19HtvADtEWeqiQpCx6Wbk7geqNC9fpUxWsgNYAwRFQN1yWJZX1WGy/wIJ0xoxrJ+NkOW+QeFyArVVUIWfnrw==",
+  "success": true,
+  "projectFilePath": "/home/carlos/Projects/unijui/sd/t5/leitor/leitor.csproj",
+  "expectedPackageFiles": [
+    "/home/carlos/.nuget/packages/mqttnet/3.1.0/mqttnet.3.1.0.nupkg.sha512",
+    "/home/carlos/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
