@@ -22,7 +22,7 @@ internal class Program
             Console.WriteLine("desconectado");
         });
         await client.ConnectAsync(options);
-        Console.WriteLine("digite algo para");
+        Console.WriteLine("digite algo para ser enviado para o BaaS");
         var mensagem = Console.ReadLine();
         Publicar(client, mensagem);
         await client.DisconnectAsync();
